@@ -2091,6 +2091,16 @@ ol {
 	margin-bottom: 0;
 }
 
+.tab-content .tab-pane img {
+	background-size: cover;
+	width: 9%;
+	box-sizing: border-box;
+	border-radius: 35%;
+}
+
+.tab-content .tab-pane .review-container {
+	float: left;
+}
 .related__title h5 {
 	font-size: 20px;
 	color: #111111;
